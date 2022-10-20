@@ -1,0 +1,16 @@
+@font-face{
+    font-family: Acumin;
+    src: url('../fonts/Acumin\ Variable\ Concept.ttf');
+}
+@font-face{
+    font-family: OxygenBold;
+    src: url('../fonts/Oxygen-Bold.ttf');
+}
+@font-face{
+    font-family: OxygenLight;
+    src: url('../fonts/Oxygen-Light.ttf');
+}
+@font-face{
+    font-family: OxygenRegular;
+    src: url('../fonts/Oxygen-Regular.ttf');
+}
